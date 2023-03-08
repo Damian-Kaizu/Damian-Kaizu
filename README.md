@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Damian-Kaizu
 - 👀 I’m interested in Networking and Data Science
-- 🌱 I’m currently learning in-depth python
-- 💞️ I’m looking forward collaborate on some web developments
+- 🌱 I’m currently learning in-depth Deep Learning.
+- 💞️ I’m looking forward collaborate on some developments
 
 
 <!---
